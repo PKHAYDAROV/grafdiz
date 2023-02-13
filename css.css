@@ -1,0 +1,23 @@
+body {
+    font-family: sans-serif;
+}
+
+header{
+    background-color: aqua;
+    padding: 20px;
+}
+
+.link-header{
+    background-color:darkcyan;
+    padding: 5px;
+}
+
+
+h1{
+    text-align: center;
+    color: green;
+}
+
+h2{
+    color: cadetblue;
+}
